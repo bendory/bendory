@@ -1,7 +1,7 @@
 # Hi! I'm David Bendory.
 
 ### Brief Bio
-I manage the Google Growth iOS team 📱 at
+I manage the Google Growth iOS 📱 team at
 <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_2015_logo.svg" width="68" height="23" alt="Google"/>.
 
 I previously managed the Cloud CICD Ecosystem team, including
